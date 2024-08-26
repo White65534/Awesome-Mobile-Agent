@@ -1,5 +1,5 @@
-# Awesome-Mobile-Agent
 
+# A Comprehensive Survey on Multimodal Mobile Agents for Vision and Beyond
 
 ## Base Model
 
