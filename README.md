@@ -1,6 +1,8 @@
 
 # A Comprehensive Survey on Multimodal Mobile Agents for Vision and Beyond
 
+![Example Image](img.webp)
+
 ## Base Model
 
 - CogVLM: Visual Expert for Pretrained Language Models
