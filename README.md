@@ -38,7 +38,10 @@ A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 - Vision-Language Models as Decision-Making Agents
 - DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement (NIPS2024)
 
+## GUI Tools
 
+- UIED: a hybrid tool for GUI element detection
+- Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?
 
 ## Dataset
 
