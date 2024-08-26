@@ -3,7 +3,7 @@
 
 ## Base Model
 
-- CogVLM: Visual Expert for Pretrained Language Models**
+- CogVLM: Visual Expert for Pretrained Language Models
 - MiniCPM
 - LLaVA-NeXT
 - LLaVA-OneVision: Easy Visual Task Transfer
@@ -22,7 +22,7 @@
 
 
 ## LLM-SFT Based Framework
-- CogAgent: A Visual Language Model for GUI Agents**
+- CogAgent: A Visual Language Model for GUI Agents
 - ScreenAI: A Vision-Language Model for UI and Infographics Understanding
 - TRAINING A VISION LANGUAGE MODEL AS SMARTPHONE ASSISTANT (ICLR 2024)
 - AGENTOHANA: Designing a Unified Data and Training Pipeline for Effective Agent Learning
@@ -61,7 +61,7 @@
 - AutoUI: You Only Look at Screens: Multimodal Chain-of-Action Agents (ACL2024)
 - GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents
 
-- Octo-planner: On-device Language Model for Planner-Action Agents*
+- Octo-planner: On-device Language Model for Planner-Action Agents
 - AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents (ACL2024)
 - Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents (ACL2024)
 - VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks (ACL2024)
