@@ -1,9 +1,15 @@
 
-# AWESOME MULTIMODAL MOBILE AGENTS  
+# AWESOME MOBILE AGENTS  
 A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 
 
 ![Example Image](img.webp)
+
+
+# Unimodal MOBILE AGENTS 
+
+
+# Multimodal MOBILE AGENTS 
 
 ## Base Model
 
