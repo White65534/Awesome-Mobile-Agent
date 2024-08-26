@@ -1,6 +1,7 @@
 
-# Awesome Multimodal Mobile Agents
-# A Comprehensive Survey for Vision and Beyond
+# AWESOME MULTIMODAL MOBILE AGENTS  
+A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
+
 
 ![Example Image](img.webp)
 
