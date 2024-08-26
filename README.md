@@ -3,11 +3,10 @@
 
 ## Base Model
 
-- **CogVLM: Visual Expert for Pretrained Language Models**
+- CogVLM: Visual Expert for Pretrained Language Models**
 - MiniCPM
-- **LLaVA-NeXT**
+- LLaVA-NeXT
 - LLaVA-OneVision: Easy Visual Task Transfer
-- **BLINK: Multimodal Large Language Models Can See but Not Perceive**
 
 ## Framework
 
