@@ -26,6 +26,8 @@ A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception
 - UFO: A UI-Focused Agent for Windows OS Interaction
 - OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
+- MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot
+
 
 
 
