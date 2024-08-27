@@ -49,7 +49,7 @@ A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 - UIED: a hybrid tool for GUI element detection
 - Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?
 
-## Dataset
+## Dataset and Benchmark
 
 ### 2017
 - Scaling Instructable Agents Across Many Simulated Worlds (2017)
