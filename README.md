@@ -109,4 +109,13 @@ A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 - Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback (ACL2024)
 
 
+# Citation
 
+```bib
+@article{wu2024curriculum,
+  title={Curriculum Learning with Quality-Driven Data Selection},
+  author={Wu, Biao and Meng, Fang and Chen, Ling},
+  journal={arXiv preprint arXiv:2407.00102},
+  year={2024}
+}
+```
