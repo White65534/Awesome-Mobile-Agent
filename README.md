@@ -1,5 +1,5 @@
 
-# Foundations and Recent Trends in Multimodal Mobile Agents: A Survey
+# Recent Trends in Multimodal Mobile Agents: A Survey
  
 
 
