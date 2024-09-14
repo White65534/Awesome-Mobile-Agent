@@ -44,10 +44,29 @@ A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
 - Vision-Language Models as Decision-Making Agents
 - DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement (NIPS2024)
 
-## GUI Tools
+**UI understanding and Automation**
+
 
 - UIED: a hybrid tool for GUI element detection
 - Object Detection for Graphical User Interface: Old Fashioned or Deep Learning or a Combination?
+- AutoDroid: LLM-powered Task Automation in Android  CHI 2024
+- Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus    ICLR 2023
+- VUT: Versatile UI Transformer for Multimodal Multi-Task User Interface Modeling    ICLR 2022
+- Widget Captioning: Generating Natural Language Description for Mobile User Interface Elements    EMNLP 2020
+- Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels       CHI 2021
+- Enabling Conversational Interaction with Mobile UI Using Large Language Models     CHI 2023
+- Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning    UIST 2021
+- Kite: Building Conversational Bots from Mobile Apps    Mobisys 2018
+- META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI
+- DroidBot-GPT: GPT-powered UI Automation for Android
+- Responsible Task Automation: Empowering Large Language Models as Responsible Task Automation
+- Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security
+- MMAC-Copilot: Multi-modal Agent Collaboration Operating System Copilot
+
+
+
+
+
 
 ## Dataset and Benchmark
 
