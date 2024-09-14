@@ -1,6 +1,6 @@
 
-# AWESOME MOBILE AGENTS  
-A COMPREHENSIVE SURVEY FOR VISION AND BEYOND
+# Foundations and Recent Trends in Multimodal Mobile Agents: A Survey
+ 
 
 
 ![Example Image](img.webp)
