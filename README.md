@@ -164,3 +164,16 @@
   year={2024}
 }
 ```
+
+
+---
+
+## Star History
+
+<a href="https://github.com/White65534/Awesome-Mobile-Agent&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=White65534/Awesome-Mobile-Agent&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=White65534/Awesome-Mobile-Agent&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=White65534/Awesome-Mobile-Agent&type=Date" />
+ </picture>
+</a>
